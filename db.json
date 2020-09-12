@@ -1,0 +1,139 @@
+{
+  "fakemercadopublico": [
+    {
+      "id": 1,
+      "Codigo": "1000813-169-CM20",
+      "Nombre": "Orden de Compra: 1000813-169-CM20",
+      "CodigoEstado": 14,
+      "tableData": {
+        "id": 0
+      }
+    },
+    {
+      "id": 2,
+      "Codigo": "1001-282-CM20",
+      "Nombre": "Orden de Compra: 1001-282-CM20",
+      "CodigoEstado": 14
+    },
+    {
+      "id": 3,
+      "Codigo": "1002-307-SE20",
+      "Nombre": "REPARACIONES VARIAS CAMION TRACTO",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 4,
+      "Codigo": "1002584-213-CM20",
+      "Nombre": "2239-4-LR16 Serv. de Reclutamiento, Selección y Consultorías",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 5,
+      "Codigo": "1002588-132-CM20",
+      "Nombre": "SLEP Puerto Cordillera; Orden de Compra: 1002588-132-CM20",
+      "CodigoEstado": 14
+    },
+    {
+      "id": 6,
+      "Codigo": "1002588-204-CM20",
+      "Nombre": "OFICINA DE PARTES 2239-14-LP13 Servicio Courier, Operador Logistico y  Mudanzas",
+      "CodigoEstado": 12
+    },
+    {
+      "id": 7,
+      "Codigo": "1002588-223-CM20",
+      "Nombre": "ESCUELA PADRE BLASS SÁNCHEZ ",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 8,
+      "Codigo": "1002588-235-CM20",
+      "Nombre": "Escuela José Agustín Alfaro; calle Rafael Sotomayor 105; Tierras Blancas , Coquimbo2239-8-LP14 CM Mobiliario Gral, Oficina, Escolar, Clínico, Urb",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 9,
+      "Codigo": "1002588-888-CM19",
+      "Nombre": "Servicio Local de Educación Pública Puerto Cordillera; Coquimbo; 2239-5-LP14 CM Venta,Arriendo,Accesor y Suministros Impresoras",
+      "CodigoEstado": 12
+    },
+    {
+      "id": 10,
+      "Codigo": "1002772-1372-SE20",
+      "Nombre": "ACCESORIO PLASTICO PARA USO EN EQUIPO CFX 96(TD,LAB,2204005002,DRG)",
+      "CodigoEstado": 12
+    },
+    {
+      "id": 11,
+      "Codigo": "1002772-2081-SE20",
+      "Nombre": "RESERVORIO 100 CC(LC,PAB,2204005003,MZR)",
+      "CodigoEstado": 12
+    },
+    {
+      "id": 12,
+      "Codigo": "1002772-2101-SE20",
+      "Nombre": "CHECK INTRODUCTOR 8.5 FR (LC,UPC-ADUL,2204005003,MZR)",
+      "CodigoEstado": 12
+    },
+    {
+      "id": 13,
+      "Codigo": "1002772-2199-CM20",
+      "Nombre": "APOSITO DE CONTACTO ANTIMICROBIAL PLATA AL 99% 10X12CMS (CM,MED,2204005003,ARC)",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 14,
+      "Codigo": "1002772-2202-SE20",
+      "Nombre": "PEDIDO PLACAS MICROBIOLOGIA DESPACHOS PARCIALIZADOS ID 1288-39-LR19 (LC,LAB,2204005002,CBO)",
+      "CodigoEstado": 9
+    },
+    {
+      "id": 15,
+      "Codigo": "1002772-2206-SE20",
+      "Nombre": "REACTIVO DE KOVAK PEDIDO 140141 ID 1002772-41-LQ18 (LC,LAB,2204005002,CBO) ",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 16,
+      "Codigo": "1002772-2227-CM20",
+      "Nombre": "GUANTE QUIRURGICO N° 7.0 LIBRE LATEX (1-11)(CM,TRANS,2204005003,ARC)",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 17,
+      "Codigo": "1002772-2241-SE20",
+      "Nombre": "OC de formalización",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 18,
+      "Codigo": "1003473-976-AG20",
+      "Nombre": "Varilla Plastica equivalente Amnioper",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 19,
+      "Codigo": "1003473-979-AG20",
+      "Nombre": "BUFFER SALINO PH7-8.2 CODIGO 8504/PROG. AGOSTO",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 20,
+      "Codigo": "1004692-6-CM20",
+      "Nombre": "licencias de software y R.E.D.",
+      "CodigoEstado": 6
+    },
+    {
+      "id": 21,
+      "Codigo": "1005498-188-SE20",
+      "Nombre": "Contratación del Cofinanciamiento \"Diplomado de Postítulo en Seguridad Computacional”",
+      "CodigoEstado": 9
+    },
+    {
+      "id": 22,
+      "Codigo": "1005498-40-CM20",
+      "Nombre": "Soporte licencia CMS Engine",
+      "CodigoEstado": 12
+    }
+  ]
+}
